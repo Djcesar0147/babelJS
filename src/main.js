@@ -2,7 +2,7 @@ function saludo(edad){
     //let saludo;
     if(edad <= 18){
 
-        let saludo = "que tranza"
+        let saludo = "Que tranza"
     }
     else{
         var saludo = "Bienvenido"
@@ -15,4 +15,4 @@ function saludo(edad){
     }
     
 }
-saludo(16);
+saludo(16); 
